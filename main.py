@@ -6,7 +6,7 @@ from discord import Permissions
 from colorama import Fore, Style
 import asyncio
 
-token = os.environ.get('ODM1OTE4Nzg3NjgwNzk2NzAy.YIWcCQ.pKwvvuOgh8xowJobXIUIfkVaaX4')
+token = os.environ.get('DISCORD_BOT_TOKEN')
 
 
 SPAM_CHANNEL =  ["https://discord.gg/EMfADKgTdh runs you" , "Get ran" , "https://discord.gg/EMfADKgTdh" , "oops Beamed","https://discord.gg/CJGDSREU Beamed You","Shoulda Listened","Get beamed clowns","Beamed by https://discord.gg/CJGDSREU","oops got nuked","I run you","beamed by https://discord.gg/CJGDSREU","I run you","kinda got beamed by https://discord.gg/CJGDSREU"]
